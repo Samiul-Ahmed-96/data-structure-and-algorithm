@@ -1,3 +1,4 @@
+//Last in first out - lifo
 class Stack {
     constructor(){
         this.stack = []
