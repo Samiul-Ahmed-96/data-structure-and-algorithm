@@ -6,6 +6,6 @@ class Dictionary{
         this.dictionary[key] = value;
     }
     get(key){
-        return this.dictionary[key];
+        return this.dictionary[key]; 
     }
 }
